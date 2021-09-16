@@ -1,6 +1,11 @@
 ### Hi there 👋
 Hello, I am learning Python, I started to learn coding few days ago
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abinash1011&count_private=true&theme=nightowl&hide=contribs&show_icons=true"
          alt="GitHub stats"/>
