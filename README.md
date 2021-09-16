@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hello, I am learning Python, I started to learn coding few days ago
+
 
 <!--
 **abinash1011/abinash1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
