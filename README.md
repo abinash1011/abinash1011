@@ -4,7 +4,7 @@ Hello, I am learning Python, I started to learn coding few days ago
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python       45 mins         ████████████████████████▓   98.36 % 
+Python   17 mins         ████████████████████████▒   97.90 % 
 ```
 <!--END_SECTION:waka-->
 
