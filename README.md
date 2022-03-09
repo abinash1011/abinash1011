@@ -5,8 +5,7 @@ Hello, I am learning Python, I started to learn coding few days ago
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 mins          ██████████████░░░░░░░░░░░   56.63 %
-Text     5 mins          ███████████░░░░░░░░░░░░░░   43.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
