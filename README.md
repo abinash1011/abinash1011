@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am learning Python, I started to learn coding few days ago
+Hello, I am a GenAI Developer and a Data Scientist, Pleased to meet you!
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
